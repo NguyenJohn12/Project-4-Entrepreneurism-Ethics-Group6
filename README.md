@@ -161,3 +161,23 @@ Opaque AI systems can create accountability gaps and perpetuate systemic discrim
 - California Consumer Privacy Act (CCPA).  
 - Equal Employment Opportunity (EEO) laws.  
 - EU AI Act.  
+
+
+## 2: Cultural Policy
+
+### 2.A. Core Values
+
+At the center of JobMatch AI are values that shape how we want people to see us and how we want to see ourselves. We want to be thought of as fair, honest, and approachable. The whole reason the company exists is because the founders noticed that hiring is often unfair, with bias creeping in even when people don’t mean for it to. So, the first and most important value is fairness. Every design choice and every update to the system has to support equal opportunity.  
+
+Transparency is another key value. People using the platform should not feel like they are handing their future over to a mysterious machine. We believe that candidates and employers deserve to know why certain matches are made. Inclusivity is also central, meaning that our platform should welcome people of different ages, abilities, and backgrounds. We also hold on to accountability, which is about taking responsibility when mistakes happen and showing that we are willing to improve. Lastly, privacy matters deeply because users trust us with sensitive data, and without that trust the company has no foundation. These values are not just abstract words, but practical guides for how we want to work and how we want others to think of us.  
+
+### 2.B. Motivation
+
+The culture we want in our company comes from both what excites us and what worries us. What we love is the possibility of using technology to level the playing field. It feels rewarding to think about a student, or someone changing careers, finally getting noticed for their skills instead of being judged by their name or background. We also love the idea that a small group of people can push back against a problem as big as hiring discrimination, and that gives our work a strong sense of meaning.  
+
+What we fear is falling into the same patterns as other tech companies that start out with good intentions but later become detached from the people they were supposed to help. We fear the platform unintentionally reinforcing bias instead of reducing it, which is why we are careful about testing and feedback. Another fear is losing credibility. If people stop trusting that our system is fair, then everything we have built loses its purpose. These fears are not paralyzing, but they do keep us cautious, and that caution is part of the culture we want to preserve.  
+
+### 2.C. Summary
+
+Fair, open, inclusive, accountable, mindful.  
+
