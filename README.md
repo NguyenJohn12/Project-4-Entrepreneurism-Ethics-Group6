@@ -46,7 +46,7 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 ---
 
-#### 1: OKR 1 (AbdulHakim) — Ensuring Ethical and Legal Compliance  
+#### 1: OKR 1 (AbdelHakim) — Ensuring Ethical and Legal Compliance  
 
 **Ensuring Ethical and Legal Compliance**  
 
@@ -153,6 +153,69 @@ Opaque AI systems can create accountability gaps and perpetuate systemic discrim
 
 ---
 
+#### 4: OKR 4 (Monisha) — Establishing Partnerships & Trust  
+
+**Objective:**  
+Develop strong partnerships with employers, advocacy organizations, and educational institutions while building trust with both candidates and companies that use JobMatch AI. Trust is central to the adoption of AI-driven recruitment, since employers must believe the platform is reliable and unbiased, and candidates must feel their applications are treated fairly.  
+
+**Key Result:**  
+By the end of the second year, JobMatch AI will secure at least 50 partnerships with employers and advocacy groups, and reach a trust rating of 85% or higher among candidates and employers surveyed.  
+
+This OKR matters because partnerships provide credibility, growth, and access to diverse hiring pools, while trust ensures that the platform’s ethical claims are believed and upheld. Without both, the company risks being dismissed as “just another hiring app” rather than a transformative solution to recruitment bias.  
+
+**Metric(s) with Experimentation**  
+
+To test whether this OKR is successful, JobMatch AI will use multiple methods:  
+
+- **Metric 1: Employer Partnership Growth.**  
+  Track the number of formal partnerships signed with companies, universities, and advocacy groups.  
+  *Experiment:* Launch a pilot program offering discounted onboarding fees for the first 20 employers. Monitor adoption rates and feedback from HR departments to refine partnership terms.  
+
+- **Metric 2: Candidate Trust Index.**  
+  Run surveys asking candidates to rate their level of trust in JobMatch AI on a scale of 1–10.  
+  Questions include: “Do you feel JobMatch AI treated your application fairly?” and “Would you recommend JobMatch AI to a friend?”  
+  *Experiment:* Conduct focus groups with job seekers across different demographics. Compare trust scores between first-time users and repeat users to identify improvement areas.  
+
+- **Metric 3: Employer Confidence Check.**  
+  Employers will be surveyed quarterly on transparency, fairness, and efficiency of the hiring process.  
+  *Experiment:* Provide employers with an anonymized hiring audit (showing how resumes are stripped of identifiers). Measure whether transparency increases employer confidence.  
+
+- **Metric 4: Advocacy Group Endorsements.**  
+  Count the number of public endorsements or collaborations from advocacy organizations (e.g., disability rights groups, diversity networks).  
+  *Experiment:* Invite advocacy organizations to serve as beta testers and publish joint reports about platform fairness.  
+
+**Ethical Impact(s)/Issue(s)**  
+
+Several ethical challenges arise when establishing partnerships and trust:  
+
+- **Bias in Partnerships:** If JobMatch AI partners mainly with large corporations, smaller businesses or nonprofits may be excluded.  
+- **Trust and Transparency Risk:** If the platform is not transparent about how algorithms make decisions, both employers and candidates may distrust the system.  
+- **Conflict of Interest:** Employers might pressure JobMatch AI to optimize for efficiency (filling roles quickly) over fairness.  
+- **Privacy Concerns:** In building trust through audits and reporting, sensitive candidate or employer data may be exposed if not carefully anonymized.  
+
+**Expected Ethical Impact Risk Table**  
+
+| Stakeholder | Financial Risk | Privacy Risk | Conflict of Interest | Rights Risk |
+|-------------|----------------|--------------|----------------------|-------------|
+| Candidate   | Low            | Mid          | Mid                  | High        |
+| Employer    | Mid            | Mid          | High                 | Mid         |
+| Company     | High           | Mid          | High                 | Mid         |
+| Regulators  | Low            | Low          | Mid                  | Low         |  
+
+**Ethical Safeguards**  
+
+To lower these risks, JobMatch AI will implement the following safeguards:  
+
+- **Diverse Partnerships:** Proactively partner not only with large corporations but also with small businesses, nonprofits, and advocacy groups.  
+- **Algorithmic Transparency:** Publish simplified audit reports explaining how applications are anonymized and matched.  
+- **Data Privacy Protections:** Ensure that audits and trust reports anonymize candidate and employer data, following GDPR and CCPA best practices.  
+- **Independent Advisory Board:** Include representatives from advocacy organizations, academia, and ethics experts to oversee partnerships.  
+- **Regular Feedback Cycles:** Hold quarterly listening sessions with both candidates and employers to gather real-world trust concerns and adjust practices accordingly.  
+
+These safeguards make trust-building measurable. If employer partnerships rise but trust scores drop, JobMatch AI will review safeguards before expanding further. By grounding partnerships in fairness and oversight, JobMatch AI can ensure that growth does not come at the cost of equity.  
+
+---
+
 ### References  
 
 - Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).  
@@ -161,7 +224,9 @@ Opaque AI systems can create accountability gaps and perpetuate systemic discrim
 - California Consumer Privacy Act (CCPA).  
 - Equal Employment Opportunity (EEO) laws.  
 - EU AI Act.  
+- JobMatch AI Internal Document (2025). *OKR 4: Establishing Partnerships & Trust*.  
 
+---
 
 ## 2: Cultural Policy
 
@@ -180,4 +245,3 @@ What we fear is falling into the same patterns as other tech companies that star
 ### 2.C. Summary
 
 Fair, open, inclusive, accountable, mindful.  
-
