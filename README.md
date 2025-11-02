@@ -245,3 +245,48 @@ What we fear is falling into the same patterns as other tech companies that star
 ### 2.C. Summary
 
 Fair, open, inclusive, accountable, mindful.  
+
+---
+
+## 3: Ethics Policy
+
+### 3.A. Core Items
+
+JobMatch AI’s Ethics Policy is built on five main parts: **Fairness, Transparency, Accountability, Privacy, and Human Oversight.** These guide how our platform is made, how data is handled, and how decisions are made. Each one is a basic rule for running the company the right way.
+
+**1. Fairness**  
+Fairness is at the heart of our company. Every algorithm and design choice has to make sure all candidates are treated equally, no matter their gender, race, age, or background. We do regular **bias checks** with both our own tools and outside reviewers to look for unfair patterns in how candidates are matched. If bias is found, the model is fixed and tested again before we use it. Fairness also means being fair in business. Our partnerships and pricing are made to work for small businesses and nonprofits, not just big companies.
+
+**2. Transparency**  
+We believe that AI systems should be clear and easy to understand. Every job match from JobMatch AI includes a short, plain-language explanation of how it was made. We also publish yearly **Ethical Transparency Reports** that explain how data is used, what changes we made to our algorithms, and what we learned from audits and user feedback. By being open about both what works and what doesn’t, we earn people’s trust.
+
+**3. Accountability**  
+When we make mistakes, we admit them. The company’s **Ethics Review Committee** can pause or change any feature that raises an ethical concern. Users can appeal job-matching results or report problems directly. Each case is reviewed by a small team of people who understand data, ethics, and hiring. Accountability also means our leaders take responsibility. Every executive and board member goes through yearly ethics training and signs a pledge to follow our values.
+
+**4. Privacy**  
+We know that users trust us with personal data, and keeping it safe is our duty. JobMatch AI follows all major privacy laws, including **GDPR**, **CCPA**, and the new **EU AI Act**. Data is made anonymous before use, stored safely with encryption, and deleted after a set time. We never sell or share user data for other uses. A **Data Protection Officer (DPO)** checks all data handling every three months, and outside experts confirm that our rules are followed.
+
+**5. Human Oversight and Doing Good**  
+AI should help people make decisions, not replace them. Recruiters always make the final call in hiring, and no one is rejected by the system without a person checking it first. We also focus on **doing good** by making sure our technology helps society. Our project *JobMatch for All* gives free platform access to nonprofits that help people get back into work or learn new job skills.
+
+These five parts work together to make sure JobMatch AI is both smart and fair. Ethics is part of every stage of our work — from design to testing to partnerships — so fairness is built in, not added later.
+
+---
+
+### 3.B. Board
+
+The **Ethics and Technology Advisory Board** helps guide JobMatch AI and keep it responsible. It includes three well-known people whose experience in tech and ethics connects directly to what we do.
+
+**1. Ryan Roslansky — CEO of LinkedIn**  
+Ryan Roslansky has led LinkedIn since 2020. He has focused on skills-based hiring and giving everyone fair access to opportunities. Under his leadership, LinkedIn has made progress in using AI responsibly and improving fairness in hiring. We chose Roslansky because he understands how large tech platforms can affect people’s careers. His experience with trust, transparency, and ethical data use will help JobMatch AI grow responsibly.
+
+**2. Dr. Timnit Gebru — Founder and Executive Director, Distributed AI Research Institute (DAIR)**  
+Dr. Gebru is one of the best-known experts in AI ethics and fairness. She used to work at Google and helped write some of the most important research about bias in AI. She started her own research group to study how AI affects real people, especially those who are often left out. We chose Dr. Gebru because her work directly supports our goal of making AI fair and open. She will help guide our testing for bias and make sure our system treats everyone equally.
+
+**3. Brad Smith — Vice Chair and President of Microsoft**  
+Brad Smith is a long-time leader in tech ethics and law. He has spent years working on privacy, responsible AI, and digital rights at Microsoft. We chose him because he understands how to build tech that follows the law and protects people’s rights. His knowledge of global policy will help us keep JobMatch AI safe, legal, and fair for everyone.
+
+**Why These Members Matter**  
+Together, these three members bring a mix of leadership, research, and policy experience. Roslansky adds business and hiring knowledge, Gebru brings deep ethics and fairness research, and Smith adds global legal and policy experience. They meet every few months to review audits and give advice. Their feedback is shared in our yearly ethics report to keep JobMatch AI honest and open.
+
+---
