@@ -46,94 +46,72 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 ---
 
-#### 1: OKR 1 (AbdelHakim) — Ensuring Ethical and Legal Compliance
+#### 1: OKR 1 (Abdelhakim) — Ensuring Ethical and Legal Compliance
 
-**Objective:** Build and maintain a legally and ethically compliant hiring system that protects user privacy and promotes fairness.
+#### Company Summary
+JobMatch AI is a startup created to make the hiring process fairer, more transparent, and more inclusive.
+The platform uses artificial intelligence to connect job seekers with employers based purely on skills and experience while hiding personal details like name, gender, or ethnicity.
+By doing this, it aims to reduce bias and help every qualified candidate receive equal consideration.
 
-**Key Result:** Reduce algorithmic bias in hiring recommendations by at least **30 percent** during the first year through the use of explainable-AI tools and regular bias testing.
+Computation for JobMatch AI happens mostly in the cloud, where large amounts of data are processed through secure servers.
+Sensitive information such as résumés, interview data, and match results is encrypted and stored safely, while limited data is temporarily kept on local devices for faster performance.
+Main stakeholders include job seekers, employers, regulatory agencies, and the JobMatch AI development team.
+
+#### 1.C.1.1 OKR 1 Objective and Key Result
+
+**Objective:** Build and maintain a legally and ethically compliant hiring system that protects user privacy and promotes fairness.  
+**Key Result:** Reduce algorithmic bias in hiring recommendations by at least 30 percent during the first year through explainable-AI tools and regular bias-testing.
 
 **Stakeholders:**
+- Job Seekers  
+- Employers  
+- Regulatory Agencies  
+- JobMatch AI Team  
 
-* **Job Seekers:** Diverse individuals who deserve unbiased evaluations.
-* **Employers:** Organizations seeking efficient hiring while staying compliant with labor and privacy laws.
-* **Regulatory Agencies:** Groups such as the EEOC or the European Data Protection Board overseeing fairness and transparency.
-* **JobMatch AI Team:** Developers, legal advisors, and data scientists responsible for ethical system design.
+#### 1.C.1.2 OKR 1 Metric(s) with Experiment(s)
 
-This OKR benefits all stakeholders because fairness in hiring protects candidates, reduces legal risks for employers, reinforces regulatory trust, and strengthens JobMatch AI’s credibility.
+**Metric 1 – Algorithmic Fairness Rate (AFR)**  
+Goal: Measure the drop in biased outcomes after bias-correction features are added.
 
+**Metric 2 – Transparency Satisfaction Index (TSI)**  
+Goal: Understand user trust and clarity of recommendations.
 
-**Metrics and Experimentation**
+**Metric 3 – Compliance Audit Pass Rate (CAPR)**  
+Goal: Achieve full compliance in quarterly external audits.
 
-**Metric 1 – Algorithmic Fairness Rate (AFR)**
-**Goal:** Measure bias reduction after fairness tools are applied.
-**Experiment:** Analyze 1,000 anonymized candidate profiles across demographics before and after bias detection.
-AFR = ((bias before − bias after)/bias before) × 100.
-A 30% improvement = success.
+#### 1.C.1.3 OKR 1 Ethical Impact(s)/Issues(s)
 
+Even with fairness goals, ethical risks still exist. Problems can occur if the training data reflects old hiring patterns that favor one group over another.
 
-**Metric 2 – Transparency Satisfaction Index (TSI)**
-**Goal:** Determine user trust and understanding of the system.
-**Experiment:** Survey 300 users (50% employers, 50% candidates).
-Questions include clarity, fairness perception, and reuse intention.
-Score of **8/10 average** or **80% satisfaction** = success.
+**Expected Ethical Impact Risk Table**
 
+Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights Risk
+--- | --- | --- | --- | ---
+Job Seeker | Low | High | Medium | High
+Employer | Medium | Low | Medium | Medium
+JobMatch AI | High | Medium | High | Medium
+Regulators | Low | Low | Medium | Low
 
+#### 1.C.1.4 OKR 1 Ethical Safeguards
 
-**Metric 3 – Compliance Audit Pass Rate (CAPR)**
-**Goal:** Pass quarterly independent audits with no major risks.
-**Experiment:** External reviewers assess compliance with GDPR, CCPA, and EEOC rules.
-A **100% pass rate** = success.
-
-
-**Ethical Impacts and Issues**
-
-Even with strong safeguards, ethical concerns remain. Algorithms may unintentionally learn biased patterns if historical data includes discrimination.
-A real example is Amazon’s 2018 AI hiring tool, which began downgrading female candidates due to biased past data.
-
-**Risk Table:**
-
-| Stakeholder | Financial Risk | Privacy Risk | Conflict of Interest | Rights Risk |
-| ----------- | -------------- | ------------ | -------------------- | ----------- |
-| Job Seeker  | Low            | High         | Medium               | High        |
-| Employer    | Medium         | Low          | Medium               | Medium      |
-| JobMatch AI | High           | Medium       | High                 | Medium      |
-| Regulators  | Low            | Low          | Medium               | Low         |
-
-**Analysis:**
-
-* Job seekers face high privacy and discrimination risk.
-* Employers risk reputational harm.
-* JobMatch AI risks financial and ethical failure.
-* Regulators face public trust challenges.
-
-
-
-**Ethical Safeguards**
-
-To address these risks, JobMatch AI will implement:
-
-1. **Independent Ethics Board** – Quarterly algorithm reviews and public reports.
-   *Success Measure:* 100% CAPR.
-
-2. **Balanced Data Collection** – Ensuring gender, age, and ethnic representation.
-   *Success Measure:* 30% bias reduction.
-
-3. **Explainable AI Interface** – A dashboard that clarifies why matches were made.
-   *Success Measure:* TSI ≥ 80%.
-
-4. **Privacy-by-Design Framework** – Encryption, limited retention, and explicit consent.
-   *Success Measure:* Zero major breaches and >90% opt-in.
-
-These safeguards align with the **ACM Code of Ethics** and global standards.
+1. Independent Ethics Board  
+2. Balanced Data Collection  
+3. Explainable AI Interface  
+4. Privacy-by-Design Framework  
 
 ---
+
 #### 2: OKR 2 (Nayef) — User-Friendly Interface & Accessibility  
+
+#### 1.C.2.1 OKR 2 Objective and Key Result
 
 **Objective:** Create a user-friendly interface that makes it easy for all candidates, regardless of age, background, or ability, to apply for jobs.  
 
 **Key Result:** By the end of the first year, at least 85% of users in different demographic groups will say the platform was easy to use.  
 
 This OKR matters most for candidates, since the interface can either help or block them from applying. Employers benefit when more people can apply without issues. The company gains trust if the design is seen as accessible and fair.  
+
+#### 1.C.2.2 OKR 2 Metric(s) with Experiment(s)
 
 **Metric(s) with Experimentation**  
 To see if this OKR is successful, JobMatch AI can use surveys, usability testing, and simple accessibility checks.  
@@ -149,6 +127,8 @@ To see if this OKR is successful, JobMatch AI can use surveys, usability testing
 
 - **Metric 3: Accessibility Check.** Test if the site works with basics like keyboard-only navigation and screen readers.  
   *Experiment:* Have 20 participants with different accessibility needs try using the platform, plus run it through free accessibility checkers online.  
+
+#### 1.C.2.3 OKR 2 Ethical Impact(s)/Issues(s)
 
 **Ethical Impact(s)/Issue(s)**  
 - Exclusion risk: If the design is tested mostly with young, tech-savvy people, older adults or people with disabilities might find it harder to use.  
@@ -168,6 +148,8 @@ This connects to Epic v. Apple (2021), where Apple controlled how apps were acce
 
 Candidates face the biggest risks: if the interface excludes them, it could violate their right to fair access. The company carries high risk too, since bad design could hurt its reputation and finances.  
 
+#### 1.C.2.4 OKR 2 Ethical Safeguards
+
 **Ethical Safeguards**  
 Several steps can lower these risks:  
 
@@ -182,6 +164,8 @@ These safeguards are realistic for a startup and can be measured by repeating su
 
 #### 3: OKR 3 (John) — Transparency & Explainable AI  
 
+#### 1.C.3.1 OKR 3 Objective and Key Result
+
 **Objective:** Build transparency and accountability into the hiring process through explainable AI features.  
 
 **Key Results:**  
@@ -189,11 +173,17 @@ These safeguards are realistic for a startup and can be measured by repeating su
 - Conduct annual transparency reports made public on our website.  
 - Increase recruiter trust score by 20% through surveys after explainability features launch.  
 
+#### 1.C.3.2 OKR 3 Metric(s) with Experiment(s)
+
 **Metric(s) with Experiment(s)**  
 Metrics include transparency report readership, recruiter trust survey scores, and frequency of candidate inquiries requesting explanations (target: <5% unresolved inquiries). Experiments include usability studies to test clarity of explanations.  
 
+#### 1.C.3.3 OKR 3 Ethical Impact(s)/Issues(s)
+
 **Ethical Impact(s)/Issue(s)**  
 Opaque AI systems can create accountability gaps and perpetuate systemic discrimination without visibility. If candidates don’t understand why they were not matched, trust in the system will erode.  
+
+#### 1.C.3.4 OKR 3 Ethical Safeguard
 
 **Ethical Safeguards**  
 - We will adopt explainable AI frameworks and publish clear documentation of model decision-making.  
@@ -204,6 +194,8 @@ Opaque AI systems can create accountability gaps and perpetuate systemic discrim
 
 #### 4: OKR 4 (Monisha) — Establishing Partnerships & Trust  
 
+#### 1.C.4.1 OKR 4 Objective and Key Result
+
 **Objective:**  
 Develop strong partnerships with employers, advocacy organizations, and educational institutions while building trust with both candidates and companies that use JobMatch AI. Trust is central to the adoption of AI-driven recruitment, since employers must believe the platform is reliable and unbiased, and candidates must feel their applications are treated fairly.  
 
@@ -211,6 +203,8 @@ Develop strong partnerships with employers, advocacy organizations, and educatio
 By the end of the second year, JobMatch AI will secure at least 50 partnerships with employers and advocacy groups, and reach a trust rating of 85% or higher among candidates and employers surveyed.  
 
 This OKR matters because partnerships provide credibility, growth, and access to diverse hiring pools, while trust ensures that the platform’s ethical claims are believed and upheld. Without both, the company risks being dismissed as “just another hiring app” rather than a transformative solution to recruitment bias.  
+
+#### 1.C.4.2 OKR 4 Metric(s) with Experiment(s)
 
 **Metric(s) with Experimentation**  
 
@@ -233,6 +227,8 @@ To test whether this OKR is successful, JobMatch AI will use multiple methods:
   Count the number of public endorsements or collaborations from advocacy organizations (e.g., disability rights groups, diversity networks).  
   *Experiment:* Invite advocacy organizations to serve as beta testers and publish joint reports about platform fairness.  
 
+#### 1.C.4.3 OKR 4 Ethical Impact(s)/Issues(s)
+
 **Ethical Impact(s)/Issue(s)**  
 
 Several ethical challenges arise when establishing partnerships and trust:  
@@ -251,6 +247,8 @@ Several ethical challenges arise when establishing partnerships and trust:
 | Company     | High           | Mid          | High                 | Mid         |
 | Regulators  | Low            | Low          | Mid                  | Low         |  
 
+#### 1.C.4.4 OKR 4 Ethical Safeguards
+
 **Ethical Safeguards**  
 
 To lower these risks, JobMatch AI will implement the following safeguards:  
@@ -265,15 +263,15 @@ These safeguards make trust-building measurable. If employer partnerships rise b
 
 ---
 
-### References  
+### References
 
-- Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).  
-- Lazar, J., Goldstein, D. F., & Taylor, A. (2017). *Ensuring Digital Accessibility through Process and Policy*. Morgan Kaufmann.  
-- General Data Protection Regulation (GDPR).  
-- California Consumer Privacy Act (CCPA).  
-- Equal Employment Opportunity (EEO) laws.  
-- EU AI Act.  
-- JobMatch AI Internal Document (2025). *OKR 4: Establishing Partnerships & Trust*.  
+* Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).
+* Lazar, J., Goldstein, D. F., & Taylor, A. (2017). *Ensuring Digital Accessibility through Process and Policy*. Morgan Kaufmann.
+* General Data Protection Regulation (GDPR). European Union, 2018.
+* California Consumer Privacy Act (CCPA). State of California, 2020.
+* Equal Employment Opportunity (EEO) Laws. U.S. Federal Regulations.
+* European Commission. *EU AI Act*. 2024.
+* JobMatch AI Internal Document (2025). *OKR 4: Establishing Partnerships & Trust*.
 
 ---
 
