@@ -46,7 +46,7 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 ---
 
-#### 1: OKR 1 — Ensuring Ethical and Legal Compliance
+#### 1: OKR 1 (AbdelHakim) — Ensuring Ethical and Legal Compliance
 
 **Objective:** Build and maintain a legally and ethically compliant hiring system that protects user privacy and promotes fairness.
 
@@ -63,7 +63,7 @@ This OKR benefits all stakeholders because fairness in hiring protects candidate
 
 ---
 
-### 2. Metrics and Experimentation
+**Metrics and Experimentation**
 
 **Metric 1 – Algorithmic Fairness Rate (AFR)**
 **Goal:** Measure bias reduction after fairness tools are applied.
@@ -88,7 +88,7 @@ A **100% pass rate** = success.
 
 ---
 
-### 3. Ethical Impacts and Issues
+**Ethical Impacts and Issues**
 
 Even with strong safeguards, ethical concerns remain. Algorithms may unintentionally learn biased patterns if historical data includes discrimination.
 A real example is Amazon’s 2018 AI hiring tool, which began downgrading female candidates due to biased past data.
@@ -111,7 +111,7 @@ A real example is Amazon’s 2018 AI hiring tool, which began downgrading female
 
 ---
 
-### 4. Ethical Safeguards
+**Ethical Safeguards**
 
 To address these risks, JobMatch AI will implement:
 
@@ -130,7 +130,6 @@ To address these risks, JobMatch AI will implement:
 These safeguards align with the **ACM Code of Ethics** and global standards.
 
 ---
-
 #### 2: OKR 2 (Nayef) — User-Friendly Interface & Accessibility  
 
 **Objective:** Create a user-friendly interface that makes it easy for all candidates, regardless of age, background, or ability, to apply for jobs.  
