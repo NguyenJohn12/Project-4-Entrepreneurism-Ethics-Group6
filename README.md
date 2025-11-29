@@ -46,7 +46,7 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 ---
 
-#### 1: OKR 1 (Abdelhakim) — Ensuring Ethical and Legal Compliance
+#### 1: OKR 1 (Abdelhakim Tebbal) — Ensuring Ethical and Legal Compliance
 
 #### Company Summary
 JobMatch AI is a startup created to make the hiring process fairer, more transparent, and more inclusive. 
