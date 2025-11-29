@@ -61,7 +61,6 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 This OKR benefits all stakeholders because fairness in hiring protects candidates, reduces legal risks for employers, reinforces regulatory trust, and strengthens JobMatch AI’s credibility.
 
----
 
 **Metrics and Experimentation**
 
@@ -71,7 +70,6 @@ This OKR benefits all stakeholders because fairness in hiring protects candidate
 AFR = ((bias before − bias after)/bias before) × 100.
 A 30% improvement = success.
 
----
 
 **Metric 2 – Transparency Satisfaction Index (TSI)**
 **Goal:** Determine user trust and understanding of the system.
@@ -79,14 +77,13 @@ A 30% improvement = success.
 Questions include clarity, fairness perception, and reuse intention.
 Score of **8/10 average** or **80% satisfaction** = success.
 
----
+
 
 **Metric 3 – Compliance Audit Pass Rate (CAPR)**
 **Goal:** Pass quarterly independent audits with no major risks.
 **Experiment:** External reviewers assess compliance with GDPR, CCPA, and EEOC rules.
 A **100% pass rate** = success.
 
----
 
 **Ethical Impacts and Issues**
 
@@ -109,7 +106,7 @@ A real example is Amazon’s 2018 AI hiring tool, which began downgrading female
 * JobMatch AI risks financial and ethical failure.
 * Regulators face public trust challenges.
 
----
+
 
 **Ethical Safeguards**
 
