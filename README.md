@@ -49,39 +49,57 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 #### 1: OKR 1 (Abdelhakim) — Ensuring Ethical and Legal Compliance
 
 #### Company Summary
-JobMatch AI is a startup created to make the hiring process fairer, more transparent, and more inclusive.
-The platform uses artificial intelligence to connect job seekers with employers based purely on skills and experience while hiding personal details like name, gender, or ethnicity.
+JobMatch AI is a startup created to make the hiring process fairer, more transparent, and more inclusive. 
+The platform uses artificial intelligence to connect job seekers with employers based purely on skills and experience while hiding personal details like name, gender, or ethnicity. 
 By doing this, it aims to reduce bias and help every qualified candidate receive equal consideration.
 
-Computation for JobMatch AI happens mostly in the cloud, where large amounts of data are processed through secure servers.
-Sensitive information such as résumés, interview data, and match results is encrypted and stored safely, while limited data is temporarily kept on local devices for faster performance.
-Main stakeholders include job seekers, employers, regulatory agencies, and the JobMatch AI development team.
+Computation for JobMatch AI happens mostly in the cloud, where large amounts of data are processed through secure servers. 
+Sensitive information such as résumés, interview data, and match results is encrypted and stored safely, while limited data is temporarily kept on local devices for faster performance. 
+Main stakeholders include job seekers, employers, regulatory agencies, and the JobMatch AI development team. 
+Job seekers depend on fairness and privacy; employers want efficiency and legal compliance; regulators make sure data and employment laws are respected; and the company itself must balance innovation with ethical responsibility.
+
 
 #### 1.C.1.1 OKR 1 Objective and Key Result
 
-**Objective:** Build and maintain a legally and ethically compliant hiring system that protects user privacy and promotes fairness.  
-**Key Result:** Reduce algorithmic bias in hiring recommendations by at least 30 percent during the first year through explainable-AI tools and regular bias-testing.
+**Objective**: Build and maintain a legally and ethically compliant hiring system that protects user privacy and promotes fairness.
+**Key Result**: Reduce algorithmic bias in hiring recommendations by at least 30 percent during the first year through the use of explainable-AI tools and regular bias-testing.
 
-**Stakeholders:**
-- Job Seekers  
-- Employers  
-- Regulatory Agencies  
-- JobMatch AI Team  
+Stakeholders:
+- Job Seekers: People of diverse ages, genders, races, and income levels who deserve unbiased evaluations.
+- Employers: Organizations seeking efficient hiring while staying compliant with labor and privacy laws.
+- Regulatory Agencies: Groups such as the EEOC or the European Data Protection Board overseeing fairness and transparency.
+- JobMatch AI Team: Developers, legal advisors, and data scientists responsible for the ethical design of the system.
+
+This OKR connects all groups because fairness in hiring benefits job seekers, protects employers from legal issues, and strengthens the company’s credibility.
+
+
 
 #### 1.C.1.2 OKR 1 Metric(s) with Experiment(s)
 
-**Metric 1 – Algorithmic Fairness Rate (AFR)**  
+**Metric 1 – Algorithmic Fairness Rate (AFR)**
 Goal: Measure the drop in biased outcomes after bias-correction features are added.
+Experiment: Analyze 1,000 anonymized candidate profiles across demographics before and after bias detection is applied. 
+Calculate AFR = ((bias before − bias after)/bias before) × 100. A 30 percent or greater improvement will be considered successful.
 
-**Metric 2 – Transparency Satisfaction Index (TSI)**  
-Goal: Understand user trust and clarity of recommendations.
+**Metric 2 – Transparency Satisfaction Index (TSI)**
+Goal: Find out if users understand and trust the system’s recommendations.
+Experiment: Survey 300 users (half employers, half job seekers). Questions include:
+1. How clearly did JobMatch AI explain your results? (1–10)
+2. Do you feel the system treated everyone fairly? (1–10)
+3. Would you use it again? (Yes/No)
+An average score of 8 or higher—or 80 percent satisfaction—will indicate strong transparency.
 
-**Metric 3 – Compliance Audit Pass Rate (CAPR)**  
-Goal: Achieve full compliance in quarterly external audits.
+**Metric 3 – Compliance Audit Pass Rate (CAPR)**
+Goal: Pass independent audits with no serious legal or ethical violations.
+Experiment: Have an external ethics board review the system every quarter using GDPR, CCPA, and EEOC standards. 
+A 100 percent CAPR means the safeguard process is working.
 
 #### 1.C.1.3 OKR 1 Ethical Impact(s)/Issues(s)
 
-Even with fairness goals, ethical risks still exist. Problems can occur if the training data reflects old hiring patterns that favor one group over another.
+Even with fairness goals, ethical risks still exist. Problems can occur if the training data reflects old hiring patterns that favor one group over another. 
+A real example is Amazon’s AI hiring tool, which was shut down in 2018 after it learned bias from past data and started lowering the rankings of female applicants (Dastin, Reuters, 2018). 
+This shows how quickly untested algorithms can become discriminatory, even without human intent.
+
 
 **Expected Ethical Impact Risk Table**
 
@@ -92,12 +110,30 @@ Employer | Medium | Low | Medium | Medium
 JobMatch AI | High | Medium | High | Medium
 Regulators | Low | Low | Medium | Low
 
+**Analysis**:
+- Job Seekers face high privacy and rights risks if data is leaked or biased, which could cost them opportunities.
+- Employers risk moderate financial and reputation loss if the tool produces unfair results.
+- JobMatch AI has high financial and conflict risks since any ethical breach would damage its brand.
+- Regulatory agencies have low direct risk but can face public pressure if oversight is weak.
+
 #### 1.C.1.4 OKR 1 Ethical Safeguards
 
-1. Independent Ethics Board  
-2. Balanced Data Collection  
-3. Explainable AI Interface  
-4. Privacy-by-Design Framework  
+To reduce these issues, JobMatch AI will apply several safeguards:
+
+1. **Independent Ethics Board** – A panel of AI ethicists, lawyers, and social scientists will audit results every quarter and publish short reports.
+   Success Measure: Maintain a 100 percent CAPR.
+
+2. **Balanced Data Collection** – Recruit diverse sample sets and require equal representation across gender, age, and ethnicity.
+   Success Measure: At least 30 percent bias reduction shown by AFR.
+
+3. **Explainable AI Interface** – A simple dashboard that shows “Why this match was made.” Designed with UX and accessibility experts.
+   Success Measure: TSI above 80 percent.
+
+4. **Privacy-by-Design Framework** – End-to-end encryption, short data retention periods, and clear consent messages.
+   Success Measure: Zero major breaches and opt-in rates over 90 percent.
+
+These steps align with the ACM Code of Ethics by emphasizing fairness, respect for privacy, and professional responsibility.
+
 
 ---
 
