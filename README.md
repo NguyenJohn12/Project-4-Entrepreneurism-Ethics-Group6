@@ -1452,8 +1452,8 @@ Together, these three members bring a mix of leadership, research, and policy ex
 
 ---
 ### Youtube Link
-> link here
-
+[Youtube Link](https://youtu.be/-gin-q6AOH8)
+> Note: .mp4 file was too big for GitHub
 ### References
 
 * Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).
