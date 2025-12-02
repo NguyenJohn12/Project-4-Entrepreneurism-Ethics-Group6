@@ -46,18 +46,7 @@ The main stakeholders are job seekers, employers, and the company itself. Job se
 
 ---
 
-#### 1: OKR 1 (Abdelhakim Tebbal) — Ensuring Ethical and Legal Compliance
-
-#### Company Summary
-JobMatch AI is a startup created to make the hiring process fairer, more transparent, and more inclusive. 
-The platform uses artificial intelligence to connect job seekers with employers based purely on skills and experience while hiding personal details like name, gender, or ethnicity. 
-By doing this, it aims to reduce bias and help every qualified candidate receive equal consideration.
-
-Computation for JobMatch AI happens mostly in the cloud, where large amounts of data are processed through secure servers. 
-Sensitive information such as résumés, interview data, and match results is encrypted and stored safely, while limited data is temporarily kept on local devices for faster performance. 
-Main stakeholders include job seekers, employers, regulatory agencies, and the JobMatch AI development team. 
-Job seekers depend on fairness and privacy; employers want efficiency and legal compliance; regulators make sure data and employment laws are respected; and the company itself must balance innovation with ethical responsibility.
-
+### 1: OKR 1 (Abdelhakim Tebbal) — Ensuring Ethical and Legal Compliance
 
 #### 1.C.1.1 OKR 1 Objective and Key Result
 
@@ -137,7 +126,7 @@ These steps align with the ACM Code of Ethics by emphasizing fairness, respect f
 
 ---
 
-#### 2: OKR 2 (Nayef) — User-Friendly Interface & Accessibility  
+### 2: OKR 2 (Nayef) — User-Friendly Interface & Accessibility  
 
 #### 1.C.2.1 OKR 2 Objective and Key Result
 
@@ -198,7 +187,7 @@ These safeguards are realistic for a startup and can be measured by repeating su
 
 ---
 
-#### 3: OKR 3 (John) — Transparency & Explainable AI  
+### 3: OKR 3 (John) — Transparency & Explainable AI  
 
 #### 1.C.3.1 OKR 3 Objective and Key Result
 
@@ -1329,7 +1318,7 @@ for avoiding algorithmic discrimination.
 
 ---
 
-#### 4: OKR 4 (Monisha) — Establishing Partnerships & Trust  
+### 4: OKR 4 (Monisha) — Establishing Partnerships & Trust  
 
 #### 1.C.4.1 OKR 4 Objective and Key Result
 
