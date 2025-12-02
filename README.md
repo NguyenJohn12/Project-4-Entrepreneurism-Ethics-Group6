@@ -1389,19 +1389,6 @@ These safeguards make trust-building measurable. If employer partnerships rise b
 
 ---
 
-### References
-
-* Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).
-* Lazar, J., Goldstein, D. F., & Taylor, A. (2017). *Ensuring Digital Accessibility through Process and Policy*. Morgan Kaufmann.
-* General Data Protection Regulation (GDPR). European Union, 2018.
-* California Consumer Privacy Act (CCPA). State of California, 2020.
-* Equal Employment Opportunity (EEO) Laws. U.S. Federal Regulations.
-* European Commission. *EU AI Act*. 2024.
-* JobMatch AI Internal Document (2025). *OKR 4: Establishing Partnerships & Trust*.
-
-
----
-
 ## 2: Cultural Policy
 
 ### 2.A. Core Values
@@ -1464,3 +1451,15 @@ Brad Smith is a long-time leader in tech ethics and law. He has spent years work
 Together, these three members bring a mix of leadership, research, and policy experience. Roslansky adds business and hiring knowledge, Gebru brings deep ethics and fairness research, and Smith adds global legal and policy experience. They meet every few months to review audits and give advice. Their feedback is shared in our yearly ethics report to keep JobMatch AI honest and open.
 
 ---
+### Youtube Link
+> link here
+
+### References
+
+* Epic Games, Inc. v. Apple Inc., 559 F. Supp. 3d 898 (N.D. Cal. 2021).
+* Lazar, J., Goldstein, D. F., & Taylor, A. (2017). *Ensuring Digital Accessibility through Process and Policy*. Morgan Kaufmann.
+* General Data Protection Regulation (GDPR). European Union, 2018.
+* California Consumer Privacy Act (CCPA). State of California, 2020.
+* Equal Employment Opportunity (EEO) Laws. U.S. Federal Regulations.
+* European Commission. *EU AI Act*. 2024.
+* JobMatch AI Internal Document (2025). *OKR 4: Establishing Partnerships & Trust*.
